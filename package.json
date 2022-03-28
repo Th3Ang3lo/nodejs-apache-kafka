@@ -1,0 +1,17 @@
+{
+  "name": "apache-kafka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "kafka-node": "^5.0.0"
+  },
+  "scripts": {
+    "producer": "node ./src/producer",
+    "consumer": "node ./src/consumer"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-beta.0"
+  }
+}
