@@ -1,5 +1,5 @@
 {
-  "name": "apache-kafka",
+  "name": "node-apache-kafka",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
